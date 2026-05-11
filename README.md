@@ -1,3 +1,5 @@
+Trabajo realizado por Alberto Rueda y David Delgado
+
 # FASE 1: INVESTIGACIÓN.
 
 Para esta actividad, se nos poide realizar una investigación sobre los nodos de control de UML 2.5, para ello, debemos distinguir entre los rombos y las barras de fork, es decir, decisiones y bifurcaciones.
