@@ -1,4 +1,4 @@
-# FASE 1: INVESTIGACIÓN
+# FASE 1: INVESTIGACIÓN.
 
 Para esta actividad, se nos poide realizar una investigación sobre los nodos de control de UML 2.5, para ello, debemos distinguir entre los rombos y las barras de fork, es decir, decisiones y bifurcaciones.
 En UML es  muy importante saber diferenciar entre estos procesos.
@@ -15,3 +15,7 @@ La bifurcación se representa mediante una barra negra, a la que llamamos barra 
 ## Join
 
 aquí se sincronizan los procesos de forma simultánea y espera a que todos finalicen antes de continuar
+
+# FASE 2: MODELADO DEL PROCESO DE COMPRA.
+
+<img width="1260" height="1413" alt="confirmaciónPedido" src="https://github.com/user-attachments/assets/f899e569-3c18-440a-93e6-7482e2b48a34" />
